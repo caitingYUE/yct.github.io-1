@@ -1,1 +1,1 @@
-# yangcantian.github.com
+# yct.github.io
